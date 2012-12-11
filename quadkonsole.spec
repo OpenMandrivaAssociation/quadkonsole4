@@ -59,3 +59,10 @@ rm -rf %{buildroot}
 %_kde_datadir/config.kcfg/*
 %_kde_iconsdir/*/*/*/*
 
+
+
+%changelog
+* Sat May 07 2011 Juan Luis Baptiste <juancho@mandriva.org> 0.2.1-1mdv2011.0
++ Revision: 672103
+- import quadkonsole4
+
