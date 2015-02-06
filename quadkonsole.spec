@@ -3,7 +3,7 @@
 Summary:	QuadKonsole - multiple Konsoles in one window
 Name:		%{name}
 Version:	%{version}
-Release:	%mkrel 1
+Release:	2
 License:	GPLv2+
 Group:		Terminals
 URL:		http://kde-apps.org/content/show.php/QuadKonsole4?content=141069&PHPSESSID=0d2c6837c693192c7a288f988e6cfb21
