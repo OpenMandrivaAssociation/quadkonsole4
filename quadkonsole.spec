@@ -6,7 +6,7 @@ Version:	%{version}
 Release:	2
 License:	GPLv2+
 Group:		Terminals
-URL:		http://kde-apps.org/content/show.php/QuadKonsole4?content=141069&PHPSESSID=0d2c6837c693192c7a288f988e6cfb21
+URL:		https://kde-apps.org/content/show.php/QuadKonsole4?content=141069&PHPSESSID=0d2c6837c693192c7a288f988e6cfb21
 Source0:	quadkonsole4-%{version}.tar.lzma
 BuildRoot:	%{_tmppath}/%{name}-root
 BuildRequires:	kdelibs4-devel
